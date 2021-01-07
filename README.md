@@ -1,1 +1,1 @@
-# Egg-Fried-Rice
+This is a fried rice with eggs recipe.
